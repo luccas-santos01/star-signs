@@ -4,7 +4,7 @@ Uma calculadora interativa de árvore de habilidades com temática Pokémon, cri
 
 ## 🚀 Demo
 
-[Veja a aplicação funcionando](https://SEU_USUARIO.github.io/star-signs/)
+[Veja a aplicação funcionando](https://luccasmsantos.github.io/star-signs/)
 
 ## 🎯 Funcionalidades
 
@@ -27,7 +27,7 @@ Uma calculadora interativa de árvore de habilidades com temática Pokémon, cri
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/SEU_USUARIO/star-signs.git
+   git clone https://github.com/luccasmsantos/star-signs.git
    cd star-signs
    ```
 

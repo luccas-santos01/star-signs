@@ -16,12 +16,12 @@
   "dependencies": {
     "particles.js": "^2.0.0"
   },
-  "homepage": "https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME",
+  "homepage": "https://luccasmsantos.github.io/star-signs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git"
+    "url": "https://github.com/luccasmsantos/star-signs.git"
   },
   "keywords": ["pokemon", "skill-tree", "talent-calculator", "interactive", "game"],
-  "author": "Your Name",
+  "author": "Luccas Santos",
   "license": "MIT"
 }
